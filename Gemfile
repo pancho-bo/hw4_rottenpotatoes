@@ -14,6 +14,9 @@ group :development, :test do
   gem 'launchy'
   gem 'rspec-rails'
   gem 'simplecov'
+  gem 'factory_girl_rails'
+  gem 'ZenTest'
+  gem 'autotest-rails'
 end
 
 group :test do
